@@ -34,7 +34,7 @@ span{
 }
 
 .botao{
-    background-color: var(--botão-ativo);
+    background-color: var(--botão-inativo);
     color: wheat;
     display: flex;
     justify-content: center;
@@ -58,7 +58,10 @@ span{
 .botao:last-child{
     border-radius: 0 0 20px 20px;
 }
-
+.ativo{
+    background-color: var(--botão-ativo);
+    border-bottom: 4px  solid var(--verde);
+}
 @media screen and (min-width:700px) {
     .botoes{
         display: flex;
