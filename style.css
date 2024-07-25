@@ -74,10 +74,11 @@ span{
 }
 .aba-conteudo-titulo-principal{
     text-align: center;
-    font-size: 28px;
+    font-size: 40px;
 }
 .aba-conteudo-titulo-secundario{
 text-align: center;
 color: var(--verde);
 text-transform: lowercase;
+font-size: 30px;
 }
