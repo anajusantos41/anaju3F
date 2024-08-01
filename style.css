@@ -53,6 +53,12 @@ span{
  .aba-conteudo{
     display: none;
  }
+ .contador{
+     padding: 0 16px;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+ }
  .aba-conteudo.ativo{
     display: block;
  }
