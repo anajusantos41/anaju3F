@@ -88,3 +88,12 @@ color: var(--verde);
 text-transform: lowercase;
 font-size: 30px;
 }
+.contador-digito-texto{
+    color: var(--verde);
+    font-size: 20px;
+    margin: 0;
+}
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
