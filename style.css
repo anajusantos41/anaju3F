@@ -92,8 +92,10 @@ font-size: 30px;
     color: var(--verde);
     font-size: 20px;
     margin: 0;
+    padding: 10px;
 }
 .contador-digito-numero{
     font-size: 80px;
     margin: 0;
+    padding:10px ;
 }
